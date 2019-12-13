@@ -1,0 +1,23 @@
+body{
+  color: ;
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtSqqHCvMF18zVMqsYOmDuaFO59n7lGb7bzqeB2rtv2MUKv3KL&s);
+  background-size: cover;
+}
+.Title{
+  color: #a400fc;
+  font-size: 35px;
+}
+.subtitle{
+  color: #009cfc;
+  font-size: 30px;
+}
+.text{
+  color: #00e80c;
+  font-size: 23px;
+}
+button{
+  padding: 25px 25px;
+  font-size: 25px;
+  background-color: #fbff00;
+  color: #000000;
+}
